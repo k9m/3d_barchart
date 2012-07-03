@@ -1,0 +1,28 @@
+
+
+#BodyWrapper{
+	width: 960px;
+	margin:0px auto;
+	background:red;
+}
+
+#Main{
+	width: 800px;
+	float:left;
+}
+
+#SliderPanel{
+	width: 100px;	
+	float:left;
+	bavkground:red;
+}
+
+#slider,#sliderunit{
+	height:250px;
+}
+
+#Results{
+	width: 500px;	
+	margin:float:left;	
+}
+
