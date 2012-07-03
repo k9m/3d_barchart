@@ -1,6 +1,12 @@
 A 3D Barchart written in Java Swing.
 
-It displays a barchart with 3D effect and drawn background. It is created in Java Swing you can add it as a JComponent to an existing gui in Java or you can include it into your website as an Applet.
+It displays a barchart with 3D effect and drawn background. It is created in Java Swing you 
+can add it as a JComponent to an existing gui in Java or you can include it into your website as an Applet.
+
+I have included some sample php code with the required dependencies. Should work if you copy 
+everything from the project folder to your server.
+
+Any questions, feel free to post.
 
 More to come...
 
