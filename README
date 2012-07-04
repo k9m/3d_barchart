@@ -1,18 +1,38 @@
-A 3D Barchart written in Java Swing.
+=================================================================
+A 3D Barchart written in Java Swing.It displays a barchart with 3D
+effect and drawn background. It is created in Java Swing you 
+can add it as a JComponent to an existing gui in Java or you can 
+include it into your website as an Applet.
 
-It displays a barchart with 3D effect and drawn background. It is created in Java Swing you 
-can add it as a JComponent to an existing gui in Java or you can include it into your website as an Applet.
+I have included some sample php code with the required dependencies.
+Should work if you copy everything from the project folder to your
+server.
 
-I have included some sample php code with the required dependencies. Should work if you copy 
-everything from the project folder to your server.
+Although it kicked off as an assignment so I was restricted in 
+using "special" things like alpha blending. I decided to boost it
+up a bit and made a couple of changes will update soon.
 
-There are a few screenshots attached, any questions, feel free to post.
+//////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////
+//  If there is interest shown I am thinking of the following:	//
+//  # Splitting up code to be easier to comprehend		//
+//  # Proper dynamic zoom and unit control			//
+//  # Export to jpeg what you can include as an image stream	//
+//  # Some basic nice smooth animation perhaps			//
+//  # Migrating the code to PHP					//
+//////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////
 
+~ It's a pity the Applets didn't become widespread on the web so 
+I probably won't improve that :(
 
-The Bars and the Chart itself can be tailored to the specific needs by using meaningful private instance variables. 
+The Bars and the Chart itself can be tailored to the specific needs
+by using meaningful private instance variables. 
 
-  //Bars
-  //////
+	//Bars
+	//////
 	/**Proportion in pixels representing 1 unit*/
 	private static final int	barProport = 1;
 
@@ -61,5 +81,10 @@ The Bars and the Chart itself can be tailored to the specific needs by using mea
 
 /////////////
 ////////////
+
+
+
+
 More to come...
+
 
