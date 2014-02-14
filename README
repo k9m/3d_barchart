@@ -2,7 +2,8 @@
 A 3D Barchart written in Java Swing.It displays a barchart with 3D
 effect and drawn background. It is created in Java Swing you 
 can add it as a JComponent to an existing gui in Java or you can 
-include it into your website as an Applet.
+include it into your website as an Applet. The Bars and the Chart 
+itself can be tailored to the specific needs
 
 I have included some sample php code with the required dependencies.
 Should work if you copy everything from the project folder to your
@@ -27,64 +28,3 @@ up a bit and made a couple of changes will update soon.
 
 ~ It's a pity the Applets didn't become widespread on the web so 
 I probably won't improve that :(
-
-The Bars and the Chart itself can be tailored to the specific needs
-by using meaningful private instance variables. 
-
-	//Bars
-	//////
-	/**Proportion in pixels representing 1 unit*/
-	private static final int	barProport = 1;
-
-	/**Proportion in pixels representing 1 unit*/
-	private int	barUnit;
-
-	private int	adjust;
-
-	/**Width of the Bar*/
-	private static final int barWidth = 30;
-
-	/**Gap between bars including barWidth*/
-	private static final int	gapBars = 30;
-
-	/** Diagonal Edge in 3D*/
-	private static final int dia = 10;
-
-	//Chart
-	///////
-	/** Gap between active Area and edge of Frame */
-	private static final int edge = 40;
-
-	/** Gap between Edge of the Frame and 1st Bar */
-	private static final int gap1stBar = 85;
-
-	//Color Constants
-	/////////////////
-	/** Color of edge of the bar */
-	private static final Color edgeBar = new Color(0,0,0);
-
-	/** Color of background of the Chart */
-	private static final Color bgChart = new Color(245,222,179);
-
-	/** Color of background of the Chart */
-	private static final Color fontChart = new Color(0,0,0);
-
-	/** Color of background of the Chart */
-	private static final Color lineChart = new Color(0,0,0);
-
-	/** Color of Scales on Chart */
-	private static final Color scalesChart = new Color(90,90,90);
-
-	/** Color Difference between Sides of Bar */ 
-	private static final int diff = 30;
-
-
-/////////////
-////////////
-
-
-
-
-More to come...
-
-
