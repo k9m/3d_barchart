@@ -7,15 +7,10 @@ I have included some sample php code with the required dependencies.
 Should work if you copy everything from the project folder to your
 server.
 
-~ It's a pity the Applets didn't become widespread, so it's best if you just export it as an image stream on server side 
+![Zoom](doc/barchart_1.jpg "Zoom")
 
-<h3>Simple Chart with Zooming</h3>
-![Simple Chart with Zooming](barchart_1.jpg)
-
-<h3>Configurable</h3>
 ![Configurable](doc/barchart_2.jpg)
 
-<h3>Corporate colours</h3>
 ![Corporate colours](doc/barchart_3.jpg)
 
 
