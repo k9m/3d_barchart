@@ -10,13 +10,13 @@ server.
 ~ It's a pity the Applets didn't become widespread, so it's best if you just export it as an image stream on server side 
 
 <h3>Simple Chart with Zooming</h3>
-![Simple Chart with Zooming](https://dl.dropboxusercontent.com/sh/rnindbfbd7z1nwp/ZGT_2SZRxb/screenshots/barchart_1.jpg?token_hash=AAFgMxDxOzlGBpJ5SA5_0NELZ0Qn4jeY-QQnkl4KUiA8Dg)
+![Simple Chart with Zooming](barchart_1.jpg)
 
 <h3>Configurable</h3>
-![Configurable](https://dl.dropboxusercontent.com/sh/rnindbfbd7z1nwp/uqNftlP6Fo/screenshots/barchart_2.jpg?token_hash=AAFgMxDxOzlGBpJ5SA5_0NELZ0Qn4jeY-QQnkl4KUiA8Dg)
+![Configurable](doc/barchart_2.jpg)
 
 <h3>Corporate colours</h3>
-![Corporate colours](https://dl.dropboxusercontent.com/sh/rnindbfbd7z1nwp/0F9xMM_zYG/screenshots/barchart_3.jpg?token_hash=AAFgMxDxOzlGBpJ5SA5_0NELZ0Qn4jeY-QQnkl4KUiA8Dg)
+![Corporate colours](doc/barchart_3.jpg)
 
 
 
